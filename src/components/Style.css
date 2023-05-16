@@ -1,0 +1,199 @@
+body{margin: 0px;
+    padding: 0px;
+   
+    }
+   
+    .rightnav{
+        display: flex;
+        width: 121%;
+        height:60px;
+        align-items: center;
+        background-color: rgb(107 82 205);
+   
+    
+    }
+    
+   
+    
+    ul{
+        display: flex;
+        list-style: none;
+        text-indent: 20px;
+        align-items: center;
+        margin-left: -50px;
+    }
+        
+    li a{text-decoration: none;
+        font-size: 1.2em;
+        font-family: sans-serif;
+        color: white;
+     
+    }
+    
+    .leftbar{    margin: auto;
+        margin-right: 33px;
+    }
+    
+
+  
+    /*apna style*/
+    .btn{
+        background-color: #3737ff;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 7px;
+    margin-left: 3px;
+    font-size: 12px;
+    cursor: pointer;
+    background-origin: border-box;
+    color: black;
+
+
+    margin-top: 6px;
+    font-size: 16px;
+
+
+    }
+    .position{
+        text-align: left;
+        margin-left: 274px;
+    }
+    .container{
+        text-align: center;
+    margin-left: 1px;
+    margin-top: 2px;
+    }
+    .form-control{
+        width: 800px;
+        border: 3px solid blueviolet;
+        background-color: rgb(0 0 0 / 32%);
+        border-radius: 8px;
+        box-sizing: border-box;
+        font-size: 20px;
+        text-indent: 4px;
+        font-family: sans-serif;
+        display: inline;
+        margin: auto;
+    margin-right: -249px;
+    }
+    h1{
+        text-align: left;
+        font-size: 31px;
+        font-family: math;
+        margin-bottom: 5px;
+        margin-left: 286px;
+      
+    }
+    .mode{
+        margin: auto;
+    margin-right: 30px;
+    }
+    #modes{
+        font-size: 59px;
+    height: 40px;
+    width: 24px;
+    border: 2px solid black;
+    }
+    p{
+        text-align: left;
+        font-size: 19px;
+        font-family: math;
+        margin-bottom: -11px;
+        margin-left: 286px;
+        background: radial-gradient(#000000, transparent);
+        padding: 12px;
+        border: 2px;
+        border-radius: 3px;
+        margin-top: 5px;
+    }
+    .combine{
+        margin-top: -10px;
+    }
+.heading{
+    text-align: left;
+    font-size: 31px;
+    font-family: math;
+    margin-bottom: 5px;
+    margin-left: 286px;
+}
+.form-check{
+    margin: auto;
+    margin-right: 48px;
+}
+.colors{
+    margin-left: 63px;
+    margin-top: 5px;
+}
+.para{
+    width: 96px;
+    background-color: red;
+    border-radius: 5px;
+    color:black;
+    font-size: inherit;
+    text-align: center;
+    margin-bottom: 4px;
+    padding: 9px;
+    text-align: center;
+    margin-left: 5px;
+}
+.para1{
+    width: 96px;
+    background-color: rgb(217, 255, 0);
+    border-radius: 5px;
+    color: wheat;
+    font-size: inherit;
+    text-align: center;
+    margin-bottom: 4px;
+    color: rgb(0, 0, 0);
+    padding: 9px;
+    text-align: center;
+    margin-left: 5px;
+}
+.para2{
+    width: 96px;
+    background-color: rgb(255, 0, 170);
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+    font-size: inherit;
+    margin-bottom: 4px;
+    text-align: center;
+    padding: 9px;
+    margin-left: 5px;
+}
+.para3{
+    width: 96px;
+    background-color: rgb(0, 255, 221);
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+    font-size: inherit;
+    text-align: center;
+    margin-bottom: 4px;
+    padding: 9px;
+    text-align: center;
+    margin-left: 5px;
+}
+.para4{
+    width: 96px;
+    background-color:green;
+    border-radius: 5px;
+    color: wheat;
+    font-size: inherit;
+    text-align: center;
+    margin-bottom: 4px;
+    padding: 9px;
+    text-align: center;
+    margin-left: 5px;
+}
+.para5{
+    width: 96px;
+    background-color:rgb(38, 0, 255);
+    border-radius: 5px;
+    color: wheat;
+    font-size: inherit;
+    text-align: center;
+    margin-bottom: 4px;
+    padding: 9px;
+    text-align: center;
+    margin-left: 5px;
+    border: 2px solid black;
+}
